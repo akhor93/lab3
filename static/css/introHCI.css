@@ -14,6 +14,7 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+     background-color: #6D929B;
 }
 
 .jumbotron {
@@ -37,10 +38,20 @@ body {
      color: #6e6e6e;
 }
 
+.project {
+     margin-bottom: 20px;
+}
+
 .project a {
      text-align: center;
 }
 
 .jumbotron p.active {
      color: #1f6ddd;
+}
+
+.project-description {
+     background-color: #E8D0A9;
+     border-radius: 5px;
+     padding: 5px;
 }
